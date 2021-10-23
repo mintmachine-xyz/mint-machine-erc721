@@ -1,0 +1,12 @@
+{
+    "solidity.defaultCompiler": "localFile",
+    "cSpell.words": [
+        "bignumber",
+        "ethersproject",
+        "Keccak",
+        "nomiclabs",
+        "Numberish",
+        "typechain",
+        "underflowed"
+    ]
+}
